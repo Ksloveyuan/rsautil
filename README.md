@@ -1,5 +1,5 @@
 # rsautil
-some frequenet used rsa crypto utils, e.g. 
+some frequenetly used rsa crypto utils, e.g. 
 - GenerateKey
 - EncodePrivateKey
 - EncodePublicKey 
