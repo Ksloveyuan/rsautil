@@ -5,7 +5,8 @@ some frequenetly used rsa crypto utils, e.g.
 - EncodePublicKey 
 - Encrypt
 - Decrypt 
-- SignWithSha256Base64, 
+- SignWithSha256Base64
+- VerySignWithSha256Base64
 
 # An example 
 ```golang
