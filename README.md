@@ -31,3 +31,8 @@ func TestSignAndVerify(t *testing.T)  {
 	}
 }
 ```
+
+# Usage
+[内部API的安全防护怎么搞？密码学中有答案](https://juejin.im/post/5d6354fdf265da03963ba535)
+
+Code:[ApiSecurityDemo](https://github.com/Ksloveyuan/ApiSecurityDemo)
